@@ -1,0 +1,6 @@
+{
+  "name": "ZAD Life Sciences | Premium Nutraceuticals & Healthcare",
+  "description": "Official business portal for ZAD Life Sciences (PVT) Ltd., Karachi, Pakistan. Explore science-backed nutraceuticals, intimate wellness, vitamins, and healthcare innovations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
